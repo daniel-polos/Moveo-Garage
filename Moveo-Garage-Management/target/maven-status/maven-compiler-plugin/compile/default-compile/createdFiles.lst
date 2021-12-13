@@ -1,0 +1,12 @@
+spring\Moveo\Garage\Management\model\Truck.class
+spring\Moveo\Garage\Management\service\VehicleSercive.class
+spring\Moveo\Garage\Management\dao\Vehicledao.class
+spring\Moveo\Garage\Management\api\VehicleController.class
+spring\Moveo\Garage\Management\model\Electric_Car.class
+spring\Moveo\Garage\Management\dao\fakeVehicleDataAccessService.class
+spring\Moveo\Garage\Management\model\Regular_motorcycle.class
+spring\Moveo\Garage\Management\model\Electric_Motorcycle.class
+spring\Moveo\Garage\Management\model\Energy_Source.class
+spring\Moveo\Garage\Management\MoveoGarageManagementApplication.class
+spring\Moveo\Garage\Management\model\Vehicle.class
+spring\Moveo\Garage\Management\model\Regular_Car.class
